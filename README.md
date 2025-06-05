@@ -14,5 +14,4 @@ Originally created by Brad Traversy: [Scroll Animation - Brad Traversy](https://
 
 ## 👨‍💻 Contact
 
-**Hakan Çınar**  
 [LinkedIn](https://www.linkedin.com/in/hakan-cinar/)
