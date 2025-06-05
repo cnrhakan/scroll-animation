@@ -8,10 +8,6 @@ This project is a clone of [Brad Traversy](https://github.com/bradtraversy)'s **
 - CSS  
 - JavaScript
 
-## 🔗 Original Project
-
-Originally created by Brad Traversy: [Scroll Animation - Brad Traversy](https://github.com/bradtraversy/scroll-animation)
-
 ## 👨‍💻 Contact
 
 [LinkedIn](https://www.linkedin.com/in/hakan-cinar/)
